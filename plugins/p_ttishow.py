@@ -38,7 +38,7 @@ async def save_group(bot, message):
             return
         buttons = [[
             InlineKeyboardButton('🤥 Help', url=f"https://t.me/Top_Telugu_Movies_bot?start=help"),
-            InlineKeyboardButton('🔔 Updates', url='https://t.me/LazyDeveloper')
+            InlineKeyboardButton('🔔 Updates', url='https://t.me/Movies_Telugu_Top')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
