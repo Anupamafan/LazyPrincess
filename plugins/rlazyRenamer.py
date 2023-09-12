@@ -16,8 +16,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Dev Channel Link : https://t.me/LazyDeveloper 
-Repo Link : https://github.com/LazyDeveloperr/LazyPrincess
+Dev Channel Link : https://t.me/Movies_Telugu_Top 
+Repo Link : https://t.me/Movies_Telugu_Top
 License Link : https://github.com/LazyDeveloperr/LazyPrincess/blob/main/LICENSE
 # Removing this is strictly prohibited ! Don't remove this all without the 
 permission of LazyDeveloperr
