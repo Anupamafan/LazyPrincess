@@ -673,7 +673,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'https://t.me/Top_Telugu_Movies_bot?startgroup=true')
         ], [
-            InlineKeyboardButton('🧞‍♀️ Search 🧐', Url='https://t.me/Top_Telugu_Movies_bot'),
+            InlineKeyboardButton('🧞‍♀️ Search 🧐', url='https://t.me/Top_Telugu_Movies_bot'),
             InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/Movies_Telugu_Top')
         ], [
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
