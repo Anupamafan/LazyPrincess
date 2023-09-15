@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Hello ▄︻デ𓊈𒆜{}𒆜𓊉══━一,
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
+Myself <a href=https://t.me/Top_Telugu_Movies_bot>『 ɢᴋᴋ™ ᴍᴏᴠɪᴇ ʟɪʙʀᴀʀʏ ʙᴏᴛ 』</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
     LZTHMB_TEXT = """Hello {},
 Glad to see you here. It seems that you really love <a href=https://t.me/Anonymous_owner_bot >Gᴋᴋ™ ᴍᴏᴠɪᴇ ᴛᴇᴀᴍ</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/Movies_Telugu_Top>Main Channel</a> and stay tuned for next <a href=https://t.me/Movies_Telugu_Top>update</a>.\n\n  🐞 Report Bug here: <a href=https://t.me/Anonymous_owner_bot>Creator</a>
     """
