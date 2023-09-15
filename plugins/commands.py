@@ -49,7 +49,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕↖️ Add Me To Your Groups ↗️➕', url=f'https://t.me/Top_Telugu_Movies_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('🧞‍♀️ Search 🧐', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🧞‍♀️ Search 🧐', url='https://t.me/Top_Telugu_Movies_bot'),
             InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/Movies_Telugu_Top')
             ],[
             InlineKeyboardButton('🙆🏻 Help 🦾', callback_data='help'),
