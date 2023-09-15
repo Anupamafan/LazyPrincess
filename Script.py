@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """Hello {},
+    START_TXT = """Hello ▄︻デ𓊈𒆜{}𒆜𓊉══━一,
 Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
     LZTHMB_TEXT = """Hello {},
 Glad to see you here. It seems that you really love <a href=https://t.me/Anonymous_owner_bot >Gᴋᴋ™ ᴍᴏᴠɪᴇ ᴛᴇᴀᴍ</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/Movies_Telugu_Top>Main Channel</a> and stay tuned for next <a href=https://t.me/Movies_Telugu_Top>update</a>.\n\n  🐞 Report Bug here: <a href=https://t.me/Anonymous_owner_bot>Creator</a>
@@ -24,10 +24,15 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- For your kind information, we do not ask or force anyone for any kind of Donation. 
-- But if you really want to donate us then you can send money to us from below UPI
+⇛ ɪɴ ᴘʀᴇᴍɪᴜᴍ ɢʀᴏᴜᴘ ᴛʜᴇʀᴇ ɪꜱ ɴᴏ ꜱʜᴏʀᴛ ʟɪɴᴋꜱ.
+⇛ ᴏɴʟɪɴᴇ ᴡᴀᴛᴄʜɪɴɢ ꜱᴜᴘᴘᴏʀᴛ ɪꜱ ᴀᴠᴀɪʟᴀʙʟᴇ
 
-UPI ID:  <code>gouridevi@fam</code>  
+⇛ ꜰᴏʀ ᴘʀɪᴍɪᴜᴍ ɢʀᴏᴜᴘ ʏᴏᴜ ɴᴇᴇᴅ ᴛᴏ ᴘᴀʏ ₹50/ᴍᴏɴᴛʜ
+
+⇛ ᴜᴘɪ ɪᴅ: <code>gouridevi@fam</code>
+
+ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴ ꜱʜᴏᴛ ᴛᴏ ᴍᴇ @Iam_Channel_Admin
+  
 
 <b>❤️Thank You So Much ❤️</b>
 - <a href=https://t.me/Anonymous_owner_bot>Gᴋᴋ™ ᴍᴏᴠɪᴇ ᴛᴇᴀᴍ</a>"""
